@@ -1,0 +1,35 @@
+
+Qsquid:S1481".Remove this unused "queueName" local variable.(ûµ¾­ÿÿÿÿÿ8†ôæÁÀ-
+nsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(êŒèÏøÿÿÿÿ8†ôæÁÀ-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(Ÿä‘8‹€©ÃÀ-
+isquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(ªÆÞë8†ôæÁÀ-
+Isquid:S1172"+Remove this unused method parameter "args".(ôùÞÁ8‹€©ÃÀ-
+_squid:UnusedPrivateMethodN"3Remove this unused private "receiveMessage" method.(†ªß¡8†ôæÁÀ-
+]
+squid:S899":Do something with the "boolean" value returned by "offer".(Û€Ÿúÿÿÿÿÿ8†ôæÁÀ-
+¶%squid:RedundantThrowsDeclarationCheckN"~Remove the declaration of thrown exception 'java.util.concurrent.TimeoutException', as it cannot be thrown from method's body.(†ªß¡8†ôæÁÀ-
+¶%squid:RedundantThrowsDeclarationCheck9"~Remove the declaration of thrown exception 'java.util.concurrent.TimeoutException', as it cannot be thrown from method's body.(ñ¼ÓÄ8†ôæÁÀ-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÖ‘ùÿÿÿÿ8†ôæÁÀ-
+Gsquid:S1148Å"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÌûÊÂÀ-
+¯%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ôùÞÁ8†ôæÁÀ-
+Ysquid:UnusedPrivateMethodp".Remove this unused private "rpcClient" method.(†ñ³18†ôæÁÀ-
+isquid:S2147Æ"ECombine this catch with the one at line 196, which has the same body.(†ëˆçùÿÿÿÿ8ÌûÊÂÀ-
+Wsquid:S1481"4Remove this unused "exchange_direct" local variable.(‘øƒÙüÿÿÿÿ8†ôæÁÀ-
+hsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(àüj8†ôæÁÀ-
+osquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(ÕÃ¶àüÿÿÿÿ8Ø×ÂÀ-
+»%squid:RedundantThrowsDeclarationCheck@"~Remove the declaration of thrown exception 'java.util.concurrent.TimeoutException', as it cannot be thrown from method's body.(Ôþ‚Ðþÿÿÿÿ8†ôæÁÀ-
+Zsquid:UnusedPrivateMethodŠ".Remove this unused private "rpcServer" method.(•¸Œ$8†ôæÁÀ-
+Lsquid:S1481".Remove this unused "rpc_queue" local variable.(×ùÆî8†ôæÁÀ-
+\squid:UnusedPrivateMethod9"0Remove this unused private "sendMessage" method.(ñ¼ÓÄ8†ôæÁÀ-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÝÞ³8†ôæÁÀ-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘øƒÙüÿÿÿÿ8†ôæÁÀ-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ùÆî8†ôæÁÀ-
+nsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(ª˜àªúÿÿÿÿ8†ôæÁÀ-
+osquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(Ž¡ñðúÿÿÿÿ8ß«´ÂÀ-
+¶%squid:RedundantThrowsDeclarationCheck["~Remove the declaration of thrown exception 'java.util.concurrent.TimeoutException', as it cannot be thrown from method's body.(õ¤¹Á8ÙœÎÂÀ-
+Gsquid:S1148Ç"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8†ôæÁÀ-
+Vsquid:S1481"3Remove this unused "exchange_topic" local variable.(ÈÖ‘ùÿÿÿÿ8†ôæÁÀ-
+vsquid:S2293|"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ìºë<8†ôæÁÀ-
+nsquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ÀÔÐÂÀ-
+osquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(‘ó¦Âùÿÿÿÿ8Ë†ÌÂÀ-
+isquid:S1192="FDefine a constant instead of duplicating this literal "UTF-8" 8 times.(é¶îÔøÿÿÿÿ8†ôæÁÀ-

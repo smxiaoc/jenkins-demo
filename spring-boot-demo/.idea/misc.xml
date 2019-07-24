@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-sample-jersey" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-sample-jetty-jsp" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-sample-jta-jndi" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-sample-servlet" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-sample-tomcat-jsp" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-sample-traditional" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-sample-war" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-sample-web-jsp" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-sample-web-static" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-amqp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-test/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/spring-boot-sample-actuator-custom-security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-actuator-log4j2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-actuator-noweb/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-actuator-ui/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-animated-banner/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-ant/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-atmosphere/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-batch/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-custom-layout/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-data-cassandra/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-data-couchbase/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-data-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-data-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-data-ldap/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-data-mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-data-neo4j/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-data-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-data-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-data-solr/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-devtools/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-flyway/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-hateoas/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-integration/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-jersey/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-jetty-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-jetty-ssl/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-jetty/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-jooq/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-jta-atomikos/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-jta-bitronix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-jta-jndi/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-junit-jupiter/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-liquibase/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-logback/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-oauth2-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-oauth2-resource-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-parent-context/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-profile/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-property-validation/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-reactive-oauth2-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-reactive-oauth2-resource-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-secure-webflux/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-secure/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-session-webflux/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-session/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-simple/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-test-nomockito/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-testng/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-tomcat-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-tomcat-multi-connectors/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-tomcat-ssl/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-tomcat/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-traditional/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-undertow-ssl/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-undertow/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-war/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-web-freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-web-groovy-templates/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-web-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-web-method-security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-web-mustache/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-web-secure-custom/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-web-secure-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-web-secure/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-web-static/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-web-ui/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-webflux/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-webservices/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-websocket-jetty/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-websocket-tomcat/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-websocket-undertow/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-sample-xml/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

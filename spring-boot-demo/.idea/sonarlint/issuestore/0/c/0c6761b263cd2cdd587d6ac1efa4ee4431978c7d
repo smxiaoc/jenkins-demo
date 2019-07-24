@@ -1,0 +1,7 @@
+
+fsquid:S1192"HDefine a constant instead of duplicating this literal "success" 7 times.(ùØ8ÿÁşÉÀ-
+Fsquid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8†æ±ÉÀ-
+nsquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(†¦®ƒıÿÿÿÿ8åªÇÀ-
+Fsquid:S1148H"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8šØ’ÉÀ-
+dsquid:S2142C"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8†æ±ÉÀ-
+Xsquid:S1141A"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8†æ±ÉÀ-

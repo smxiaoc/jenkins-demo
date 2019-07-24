@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-sample-activemq" />
+        <module name="spring-boot-sample-amqp" />
+        <module name="spring-boot-sample-amqp (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-sample-actuator" target="1.5" />
+      <module name="spring-boot-sample-actuator-custom-security" target="1.5" />
+      <module name="spring-boot-sample-actuator-log4j2" target="1.5" />
+      <module name="spring-boot-sample-actuator-noweb" target="1.5" />
+      <module name="spring-boot-sample-actuator-ui" target="1.5" />
+      <module name="spring-boot-sample-animated-banner" target="1.5" />
+      <module name="spring-boot-sample-ant" target="1.5" />
+      <module name="spring-boot-sample-aop" target="1.5" />
+      <module name="spring-boot-sample-atmosphere" target="1.5" />
+      <module name="spring-boot-sample-batch" target="1.5" />
+      <module name="spring-boot-sample-cache" target="1.5" />
+      <module name="spring-boot-sample-custom-layout" target="1.5" />
+      <module name="spring-boot-sample-data-cassandra" target="1.5" />
+      <module name="spring-boot-sample-data-couchbase" target="1.5" />
+      <module name="spring-boot-sample-data-elasticsearch" target="1.5" />
+      <module name="spring-boot-sample-data-jdbc" target="1.5" />
+      <module name="spring-boot-sample-data-jpa" target="1.5" />
+      <module name="spring-boot-sample-data-ldap" target="1.5" />
+      <module name="spring-boot-sample-data-mongodb" target="1.5" />
+      <module name="spring-boot-sample-data-neo4j" target="1.5" />
+      <module name="spring-boot-sample-data-redis" target="1.5" />
+      <module name="spring-boot-sample-data-rest" target="1.5" />
+      <module name="spring-boot-sample-data-solr" target="1.5" />
+      <module name="spring-boot-sample-devtools" target="1.5" />
+      <module name="spring-boot-sample-flyway" target="1.5" />
+      <module name="spring-boot-sample-hateoas" target="1.5" />
+      <module name="spring-boot-sample-integration" target="1.5" />
+      <module name="spring-boot-sample-jersey" target="1.5" />
+      <module name="spring-boot-sample-jetty" target="1.5" />
+      <module name="spring-boot-sample-jetty-jsp" target="1.5" />
+      <module name="spring-boot-sample-jetty-ssl" target="1.5" />
+      <module name="spring-boot-sample-jooq" target="1.5" />
+      <module name="spring-boot-sample-jpa" target="1.5" />
+      <module name="spring-boot-sample-jta-atomikos" target="1.5" />
+      <module name="spring-boot-sample-jta-bitronix" target="1.5" />
+      <module name="spring-boot-sample-jta-jndi" target="1.5" />
+      <module name="spring-boot-sample-junit-jupiter" target="1.5" />
+      <module name="spring-boot-sample-kafka" target="1.5" />
+      <module name="spring-boot-sample-liquibase" target="1.5" />
+      <module name="spring-boot-sample-logback" target="1.5" />
+      <module name="spring-boot-sample-oauth2-client" target="1.5" />
+      <module name="spring-boot-sample-oauth2-resource-server" target="1.5" />
+      <module name="spring-boot-sample-parent-context" target="1.5" />
+      <module name="spring-boot-sample-profile" target="1.5" />
+      <module name="spring-boot-sample-property-validation" target="1.5" />
+      <module name="spring-boot-sample-quartz" target="1.5" />
+      <module name="spring-boot-sample-reactive-oauth2-client" target="1.5" />
+      <module name="spring-boot-sample-reactive-oauth2-resource-server" target="1.5" />
+      <module name="spring-boot-sample-secure" target="1.5" />
+      <module name="spring-boot-sample-secure-webflux" target="1.5" />
+      <module name="spring-boot-sample-servlet" target="1.5" />
+      <module name="spring-boot-sample-session" target="1.5" />
+      <module name="spring-boot-sample-session-webflux" target="1.5" />
+      <module name="spring-boot-sample-simple" target="1.5" />
+      <module name="spring-boot-sample-test" target="1.5" />
+      <module name="spring-boot-sample-test-nomockito" target="1.5" />
+      <module name="spring-boot-sample-testng" target="1.5" />
+      <module name="spring-boot-sample-tomcat" target="1.5" />
+      <module name="spring-boot-sample-tomcat-jsp" target="1.5" />
+      <module name="spring-boot-sample-tomcat-multi-connectors" target="1.5" />
+      <module name="spring-boot-sample-tomcat-ssl" target="1.5" />
+      <module name="spring-boot-sample-traditional" target="1.5" />
+      <module name="spring-boot-sample-undertow" target="1.5" />
+      <module name="spring-boot-sample-undertow-ssl" target="1.5" />
+      <module name="spring-boot-sample-war" target="1.5" />
+      <module name="spring-boot-sample-web-freemarker" target="1.5" />
+      <module name="spring-boot-sample-web-groovy-templates" target="1.5" />
+      <module name="spring-boot-sample-web-jsp" target="1.5" />
+      <module name="spring-boot-sample-web-method-security" target="1.5" />
+      <module name="spring-boot-sample-web-mustache" target="1.5" />
+      <module name="spring-boot-sample-web-secure" target="1.5" />
+      <module name="spring-boot-sample-web-secure-custom" target="1.5" />
+      <module name="spring-boot-sample-web-secure-jdbc" target="1.5" />
+      <module name="spring-boot-sample-web-static" target="1.5" />
+      <module name="spring-boot-sample-web-ui" target="1.5" />
+      <module name="spring-boot-sample-webflux" target="1.5" />
+      <module name="spring-boot-sample-webservices" target="1.5" />
+      <module name="spring-boot-sample-websocket-jetty" target="1.5" />
+      <module name="spring-boot-sample-websocket-tomcat" target="1.5" />
+      <module name="spring-boot-sample-websocket-undertow" target="1.5" />
+      <module name="spring-boot-sample-xml" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-sample-activemq" options="-parameters" />
+      <module name="spring-boot-sample-amqp" options="-parameters" />
+      <module name="spring-boot-sample-amqp (1)" options="-parameters" />
+    </option>
+  </component>
+</project>
